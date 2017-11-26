@@ -1,0 +1,10 @@
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\bin\Debug\Emlak_Otomasyon.exe.config
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\bin\Debug\Emlak_Otomasyon.exe
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\bin\Debug\Emlak_Otomasyon.pdb
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\bin\Debug\MySql.Data.Entity.dll
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.csprojResolveAssemblyReference.cache
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.AnaSayfa.resources
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.Properties.Resources.resources
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.csproj.GenerateResource.Cache
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.exe
+c:\users\akesi\onedrive\documents\visual studio 2012\Projects\Emlak_Otomasyon\Emlak_Otomasyon\obj\Debug\Emlak_Otomasyon.pdb
